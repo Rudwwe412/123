@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Telegram Web App</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 18px;
+            margin-top: 20px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>Добро пожаловать в Telegram Web App</h1>
+    <p>Это простое приложение, которое взаимодействует с вашим Telegram ботом.</p>
+    <button onclick="sendData()">Отправить данные боту</button>
+
+    <script>
+        // Инициализация Telegram Web App API
+        Telegram.WebApp.ready();
+
+        // Функция отправки данных боту
+        function sendData() {
+            const data = { message: "Привет от Web App!" };
+            Telegram.WebApp.sendData(JSON.stringify(data)); // Отправка данных обратно боту
+        }
+    </script>
+</body>
+</html>
