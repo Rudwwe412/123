@@ -426,6 +426,7 @@ bsv-apple-united-states-450-usd.jpg	9e9cdc2a98ed7980b0da	904c2d0d46e4d201c0aab91
 bsv-apple-united-states-480-usd.jpg	4b53d499a8a4b73542f2	3bd3354b9f1674b1c42741506261c612c0fabe77	258593
 bsv-apple-united-states-5-usd.jpg	2af92ce5cb2b3ea4e098	6077999f62a905ac4f9683ca70e015a2b0020a8e	253150
 bsv-apple-united-states-50-usd.jpg	67e79beb6529347c6966	aec75d24ad74333fb8dedaf6e6e835381cd4633b	255800
+bsv-apple-united-states-500-usd.jpg	6d9c63c23d81f0a82224	e6d528ae8cab3acd76cfcb40057682598a764983	258880
 bsv-apple-united-states-55-usd.jpg	9fcd4a1ca5297ee3060d	05a4015b68e80f722c416573555045bdeca7906c	256012
 bsv-apple-united-states-6-usd.jpg	2a6be2b440da26c63d89	39d461d752d6ec631a9a6c7ebcf4836a0397d61d	253461
 bsv-apple-united-states-60-usd.jpg	10cf6d9d910e7251643d	5d2745d90fb7c50fcd10f4e5db14b50729a29e08	256450
@@ -4056,8 +4057,6 @@ bsv-xbox-germany-50-eur.jpg	a8557be32deaa7a3ec4e	116fd4b684ba77fc39cbd2b671a506b
 bsv-xbox-germany-60-eur.jpg	37c2ae8f28e8c44e68f3	76baf8af99e0c11cac8825e4d3fc451f1a4850b7	265401
 bsv-xbox-germany-75-eur.jpg	7b21d4b59fa75aa865e0	5203f2ae81442984fb0d3fd4319bc9e89e02f728	264239
 bsv-xbox-germany-80-eur.jpg	479e8319056c7b8df53f	115dd264c6aa5583a74f22d9e5d516fede2612d6	265566
-bsv-xbox-global-25-usd.jpg	27eb86bdfe6bad0436c3	790a744815edc8c4dbdb32aa317af7136a61cd3e	268541
-bsv-xbox-global-5-usd.jpg	f9472fda8b57298fe9bb	b5994129ecbe8d9a233ddd278a7600f73c56c0bb	265795
 bsv-xbox-greece-10-eur.jpg	3b98ca18dea30407cd81	f00a4ed27648b2d7b7557e1cc1e9a611e99f6ffa	261475
 bsv-xbox-greece-100-eur.jpg	9542c2e28e88b98bfe48	723079ad688edfaf48e37c26ad59903800797f00	264043
 bsv-xbox-greece-20-eur.jpg	f50d7b465a59dd94d8a5	db1d5c7177a42cfcea23df7d4836059d2ef6ac48	263392
@@ -4694,6 +4693,7 @@ bsv-yandex-apple-united-states-450-usd.jpg	ebf3cf1b89e65112cccf	caef0752ff4fc7a0
 bsv-yandex-apple-united-states-480-usd.jpg	1f23f3cc294b07d495d1	f4b8fa5568c9580987d19cff9489db3381c2bd4b	259447
 bsv-yandex-apple-united-states-5-usd.jpg	2385cf8ff09d23b4e708	d4378f1e6a289262ca7e52bdbd2451f7c28f5f18	254159
 bsv-yandex-apple-united-states-50-usd.jpg	0a1e495f132ea3c904d0	03dbe671912bbc78bf70e1245c4a3dc53cf5efa1	256862
+bsv-yandex-apple-united-states-500-usd.jpg	3255bb73f6f1f726d846	8559e123e34f8a67a4f6e235cf5e005e601cab35	259775
 bsv-yandex-apple-united-states-55-usd.jpg	bd547f2141f32d599106	2a9eaeaba0df48992a64f733010aaa1e0dda5d10	256873
 bsv-yandex-apple-united-states-6-usd.jpg	060aa4d0c2e8992d1ce5	0e3cd280b77c0f50113cf7518c177e74449f8a9c	254503
 bsv-yandex-apple-united-states-60-usd.jpg	782c7a353d29422c2b10	a886a909bf9a72ec8e19e1a76cccf668b7a1f41c	257328
@@ -8276,8 +8276,6 @@ bsv-yandex-xbox-germany-50-eur.jpg	4257ee42ef6c038f7c72	855eb2c8868e88d92b15460b
 bsv-yandex-xbox-germany-60-eur.jpg	37ec3b2e62cd4f6dd2d5	d064b67f621fbfd7e4778ff6176b05b00186861a	263805
 bsv-yandex-xbox-germany-75-eur.jpg	5193d95f4498fd688dc8	3116cc8f6b0ac11f5abd039d0af855b246e48a34	262612
 bsv-yandex-xbox-germany-80-eur.jpg	46512a943e7376db301c	d3b0e325cd9e5bbc6d14a9ce0fb8a8a4a26570b3	264002
-bsv-yandex-xbox-global-25-usd.jpg	ad8ec5cae43adb14053a	acad9e39acf481cb3d16f2938ac0c06de5bf9d47	267045
-bsv-yandex-xbox-global-5-usd.jpg	260eca48ccb16fa08997	bc76bb1b239f9e85e84618be6ee53623d3c34bf0	264262
 bsv-yandex-xbox-greece-10-eur.jpg	58cc73c37ada60f533fa	8ed559c684939bf458671fc659ac40752facca29	259925
 bsv-yandex-xbox-greece-100-eur.jpg	2226a108de6b0aaa83fe	cb7a0d0101bc209e31b15a0269bbc94a9c4800a1	262632
 bsv-yandex-xbox-greece-20-eur.jpg	c01f7ff045e9401c562a	1c82f2de59c07bad76d46b5ff4d7e8347788ab25	261792
