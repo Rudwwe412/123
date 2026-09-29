@@ -5,7 +5,6 @@ bsv-apple-belgium.jpg	505584704726f40f86bc	19ff478fda8a0aa2a1a527e6336b5b1089b1d
 bsv-apple-brazil.jpg	0b9e9dcc54c6a383d393	000b60820bdf6c27ab20a707eae928b6b2fbacce	249794
 bsv-apple-canada.jpg	7505adeb8dbfbda8a7ee	6c73fb0eece925faac1366d2298a66a58e24de2a	246368
 bsv-apple-china.jpg	2f3ae55aad0a3d23f8e9	490254d25bf6d48216e0d79390d805e620cbafac	246545
-bsv-apple-egypt.jpg	c718938c871ce54d761f	64adcbcaabdee082e8d75b6092599032d74e362c	247236
 bsv-apple-finland.jpg	1c00c6971d395a23fc73	3835db6d8aaec7c8e0d5ca1856b598460890a65c	244822
 bsv-apple-france.jpg	5327a10190ce1702fafe	2486ce179c6b533b6e5730b4a7b8e17cc98eafbb	243896
 bsv-apple-germany.jpg	b4b61a0f6e07b7e7a8c7	61a422a32279d59f7e7f90b43218161057a14ea1	245119
@@ -21,7 +20,7 @@ bsv-apple-nigeria.jpg	27cd859356b12bb6b049	376d5e23514748c5deca43e185a931b98a05d
 bsv-apple-norway.jpg	4ee78677416707c9f83d	c56598a3f6b3b704c2bde6ebfff1438f4fadde5b	249252
 bsv-apple-poland.jpg	d415b1c8037c4824a176	0363a66e02786c4dd8fa60b7d7d106987ecac773	245148
 bsv-apple-portugal.jpg	6c9a3dd5c2448c12c015	155fa80281b38ab9536e43f621c07fdec024380a	246437
-bsv-apple-russia.jpg	65918443028e799e889f	55c97c43a1c315cd82572d3aa41989eaaec7f7ae	250893
+bsv-apple-russia.jpg	3dd570b5573074b2d40a	816362aa97b66f5df1b115a3d86925ef6e8cb396	250872
 bsv-apple-saudi-arabia.jpg	1f40dda15fc5324d7f9f	e777cb8bc99ca72f958a2ee3f0ac8c380c12c4da	251835
 bsv-apple-spain.jpg	3797787f620509c2f1c1	1e890a91b2eafde74e163388e5dad78556902206	245986
 bsv-apple-sweden.jpg	925392548ed0f0399a4f	63e9a5ff05bd8537f3a81d6a8cf1d09736570f0d	247614
@@ -37,7 +36,9 @@ bsv-battle.net-canada.jpg	996b159f2b9b03ac9fb1	5a8f77d3fef966b6dc81994f8b05ec7d8
 bsv-battle.net-euro-area.jpg	59e287ab652359a0a2bb	0ab189ec6adcbe9f2b6bc8f833560ee45496dadf	262382
 bsv-battle.net-france.jpg	39124ca5f09e3374de3b	bc7cb9bf82ea4ac194ff5fd2c145d621a39a4eea	248971
 bsv-battle.net-germany.jpg	364a610a873ebee2ee95	9b8f4ae6f346c37fa2c994e58bbf5d4376d86317	250267
+bsv-battle.net-indonesia.jpg	70556af0ff71ba896713	a171be8d84c7fb1cbc741b3193da5f594806a09d	250740
 bsv-battle.net-italy.jpg	e6b8ab7bfd2e6f97d1d2	4f510c0525bcfd8570d41741deecac38787372f7	248314
+bsv-battle.net-malaysia.jpg	8f9dd0c91d6afb1a8e97	880c5b01d502c2c203fa508e24d04047e7073d22	254085
 bsv-battle.net-mexico.jpg	ed8deb8b39e1098994ee	ffef66620c4d825c1cabce2f6aa4e2058ac07e61	266040
 bsv-battle.net-poland.jpg	471e34906e60e37092a1	58275143fc386734f422f0fb9487b4c4e8fbc14a	258873
 bsv-battle.net-singapore.jpg	47c60071829a0c49bae0	99a730e5324aa623728bf9bb215b8144b6b6937a	259981
@@ -47,9 +48,7 @@ bsv-battle.net-united-kingdom.jpg	6d8b315b6ad81070701b	44a5df45cc99b0b17135a05d6
 bsv-battle.net-united-states.jpg	d9eca4204b732c4642f3	3850e87fee7713566e8a117e480e1a336dd3d236	256093
 bsv-cda-poland.jpg	d4e54f86a1d5ba151b88	75daf8f3b1fc7a495e901d17a9b8dc47250a1082	34097
 bsv-cs gift cards-global.jpg	0801a4bb4cd09ea851e6	62bae24499c760915bd3611fa4bcd51165affab2	41184
-bsv-cs gift cards-poland.jpg	05bf1ab49f46b47d1c53	f8ce0283087bedac9ca15b609a8239eda2a4dcd6	40099
 bsv-cs-gift-cards-global.jpg	0801a4bb4cd09ea851e6:site-alias	62bae24499c760915bd3611fa4bcd51165affab2	41184
-bsv-cs-gift-cards-poland.jpg	05bf1ab49f46b47d1c53:site-alias	f8ce0283087bedac9ca15b609a8239eda2a4dcd6	40099
 bsv-ea-australia.jpg	091db7452dfbbd60770d	91e4e75584152f4e0deef311b542f0c1d6a2dea5	35080
 bsv-ea-euro-area.jpg	959e779dfe509112900f	012956bcec77e6d8b90404a306ea9a07a730699e	34755
 bsv-ea-france.jpg	fa1a4a3cc53def620ca4	e47e04d7f1d8dc5abd48d7412177585d877682e9	34545
@@ -72,6 +71,7 @@ bsv-fortnite-spain.jpg	a887797218a03f1b8982	8a264698f3661539522732d0fddc8e8c1d27
 bsv-fortnite-sweden.jpg	3eef45c0455a5ed4db44	fe0a35a1044a9ef7db5913809de01eba5c9105bc	254321
 bsv-fortnite-switzerland.jpg	abc67d8da342e868e49c	bafdb687559464b5261a9370cf1df75fe1546e0b	257362
 bsv-fortnite-united-arab-emirates.jpg	aff52544aeaecbcc818f	d6333133283383a9c0b1fafe0b25589dc57f0660	251830
+bsv-fortnite-united-kingdom.jpg	08ef33016c59640c7928	c5b8d73c56b5e73fa9a868851a855eb10d30f0af	259614
 bsv-fortnite-united-states.jpg	df34e9e14af71a882ce1	bebf9d98aa21dff34bc5d452bd77d2d1d1298af1	261859
 bsv-gallery-benefits.jpg	503c3bfe31dd838fec6a	aad65da3a53a99f6621fa27e76e03db2c80815c7	331568
 bsv-gallery-delivery-avito.jpg	d05f71e47cc9936c292d	528d928286c8e79be8ee7902cfb6d2491e02e5e3	320172
@@ -81,6 +81,8 @@ bsv-game-world-austria.jpg	7017852ddc99ab5812e7:site-alias	9121b4be7be0a3c1732fc
 bsv-game-world-germany.jpg	fa70847ddd8ed1f7b65d:site-alias	1ca30d25421217cb89d95d2ef4cd946b0444a81a	38690
 bsv-halfords-united-kingdom.jpg	9afcce8f9c31647b0a4b	f1d5b545c8963d982d7c26bdd365821a96a6f015	38649
 bsv-kammelna-global.jpg	8934561cc2a190ff6466	d6b8c1b9949be9b9d62740a4f3d2a6904353be45	38593
+bsv-merge kingdom warlords-global.jpg	8eefb704b8dd7daa8081	0280c4b9631d164991c8b78f7fe588bebc2973dc	44193
+bsv-merge-kingdom-warlords-global.jpg	8eefb704b8dd7daa8081:site-alias	0280c4b9631d164991c8b78f7fe588bebc2973dc	44193
 bsv-nintendo-australia.jpg	6ed7703024d933dca120	90ecacf932c2764a53877700a801ba5f39848033	246394
 bsv-nintendo-austria.jpg	6e56807815acfa28db55	f0f2588ad4822e5dbb8ca34d40d159a4645ec8e3	250259
 bsv-nintendo-belgium.jpg	0d2d90818daf32d84618	64d32f72ad4f0643f69dd9c64f33212e3838e692	250701
@@ -136,7 +138,7 @@ bsv-psn-kuwait.jpg	02d49dd68a9836d88563	dc6bb76875027d9214869f24619875d477e7dc12
 bsv-psn-lebanon.jpg	ab66040dc6e96e0e67b3	c48e640e37e4a73f421be1d43f48578656ff984a	252506
 bsv-psn-luxembourg.jpg	190307becbb5775b4dc9	a8721b0907840d5859420d3309552ab7f591beea	256718
 bsv-psn-malaysia.jpg	9ba7e38ffa07600f3f78	02ee98a9f294430aaa30d3b3a0a39acdc482ea37	260109
-bsv-psn-mexico.jpg	f407210c38ae14e033c5	a7e129aca2ed68b5f126410232fa7f4ab9e08138	261427
+bsv-psn-mexico.jpg	46470d1cbfa3c08d46a7	30c091416b78b2e87461c1ca3b07e639feaebe91	261345
 bsv-psn-netherlands.jpg	f253604e60555537ae11	f2510d9636eeb8d87d5d2f0b548021635316945d	245812
 bsv-psn-new-zealand.jpg	3e02e681ad122b2efc07	4e09de07466693c60a6be4bfbff5d426a6765db0	257649
 bsv-psn-norway.jpg	7b89fd34be3d2b9be156	6b6883993781e2961480fef710412f7d560e2d0b	258264
@@ -264,7 +266,7 @@ bsv-valorant-australia.jpg	9fa6fc30d49328dc0c1b	8ef1dbe1c2e88f6c54708f4a16d4ceb7
 bsv-valorant-brazil.jpg	7ccd6b7b2f1dcc760e65	f9b5ff9a781d8e6716c0691199255d5779890f7f	249532
 bsv-valorant-euro-area.jpg	5ab15704fb925001322a	488c73612f141a7b84d5cf6c6aab655a4d281890	249771
 bsv-valorant-global.jpg	3ab5429820a38b1de2a8	c0079caf978af41c8e792f220a81d35214cdee0d	249428
-bsv-valorant-india.jpg	8cfc521341d523ade4f4	0f6391cacd03e919b9da7242cb10ef0885afe0f1	245724
+bsv-valorant-india.jpg	c73159f3656d950bc938	fe3aa118288e159d1ce31bc7affbd225f5af0786	243150
 bsv-valorant-indonesia.jpg	09b144c67091a0b901c5	59a4db41ab1a986e87d851c9a7dc874d56ce3f48	248285
 bsv-valorant-new-zealand.jpg	47d13d0fbb6c83b15e11	0e622a28c73c81e91156c13671ad1a179ac0cb6a	251428
 bsv-valorant-philippines.jpg	a8326ce93f9233d8d0e7	6c9093153640976b229cc49152a15fe4f62f8444	246638
