@@ -357,7 +357,6 @@ bsv-apple-united-arab-emirates-1000-aed.jpg	ba21b6ad21e01acd762d	5efe12690a5ae70
 bsv-apple-united-arab-emirates-150-aed.jpg	8d78a31abd32a32a6f8a	9a060090b6c9725fc0711812af359d583fb4d1e5	256019
 bsv-apple-united-arab-emirates-1500-aed.jpg	a9f2134ee04b097ce0c1	fab8f6c430dbfe4ddd0d1e5878a37d895c45e90a	257978
 bsv-apple-united-arab-emirates-200-aed.jpg	9d9e37b842a4564c9cb1	e7f2b2325d73288abf679a46e91e231903edf2ad	257872
-bsv-apple-united-arab-emirates-2000-aed.jpg	29ff4bd1767416e1a97c	b82afb7b541d60088c7e6c7ad23fbdf073d5520d	259358
 bsv-apple-united-arab-emirates-250-aed.jpg	3922b9b8e0339fca653e	1d09a0629704455570a7f1c920b025d3ead4a5f1	257697
 bsv-apple-united-arab-emirates-300-aed.jpg	62214a98c4ac687417c6	814cc2dc9f9cdcdf4aa8dbf294cd22f423c51674	257889
 bsv-apple-united-arab-emirates-400-aed.jpg	17502bcc0f461a7090c7	4e79004ee5261a10e4dacb43b4720851a96d10a8	257027
@@ -384,10 +383,12 @@ bsv-apple-united-states-135-usd.jpg	8141af484b8f9538e378	26d8f5822b696f2a3797aad
 bsv-apple-united-states-14-usd.jpg	5fbe84553cdd9a9f7d81	98ba33c8c6842a9e38e19e262a76c7370b60b1d5	253800
 bsv-apple-united-states-140-usd.jpg	08f5c5b12c1171abfbdc	93ba7f6b850e4cf3634a1cf379975c94b0d7683e	256381
 bsv-apple-united-states-15-usd.jpg	132b2b8e5908bc23c2a9	e367486688494b57fa5920b098b92bf84a7a0ccc	254236
+bsv-apple-united-states-150-usd.jpg	49437419ea05f7fb1256	295d73c86c276c476829a70b2ca1ddb22db6d941	257050
 bsv-apple-united-states-16-usd.jpg	43e47882f84983a2ab24	0d6177104e897d547ff1ac35227ba8e49cb18353	254558
 bsv-apple-united-states-160-usd.jpg	5373bf71455990edabac	323c8e360725ba491f67672f350d3ae280282410	257531
 bsv-apple-united-states-17-usd.jpg	59e4e95a0f5beca5860d	35eb014fde0e177cd87434bfdbaa44a2f6de2f54	253412
 bsv-apple-united-states-170-usd.jpg	0fa8004b806893176e7f	26deb41672bd23db7582916576a91de9d1183d3c	256047
+bsv-apple-united-states-18-usd.jpg	7f7390a52f5ee820d863	dcdf7c6619835f7891104d1dfc6c6c8d7f9f90eb	254609
 bsv-apple-united-states-19-usd.jpg	004a1d20a272fa13c4b6	9dc1dd940dfdca52bc00b085c2e811c098935390	254482
 bsv-apple-united-states-2-usd.jpg	03a7a6bf212238d8539b	1f68fb1ba694c8acd9949acb5625bdaa47137a8c	253075
 bsv-apple-united-states-20-usd.jpg	1383c86592e8920db2bb	aa1ded9b6138b1a2edcda7209bbdbf0fe5b69a29	256021
@@ -4626,7 +4627,6 @@ bsv-yandex-apple-united-arab-emirates-1000-aed.jpg	54ae3502e3a477b25426	d3819c7c
 bsv-yandex-apple-united-arab-emirates-150-aed.jpg	4ea7acc4bfec6ff13afe	59b981c72ffbff55e25bb859712d56554a384000	256964
 bsv-yandex-apple-united-arab-emirates-1500-aed.jpg	754994708adeee5839cf	85101454d63df5d7312ffa70e590496ddc67fae0	258797
 bsv-yandex-apple-united-arab-emirates-200-aed.jpg	7c8ef7d9173f5ab9b023	adb89c13064ea6a7f14b5a1bafc73921698fac3f	258733
-bsv-yandex-apple-united-arab-emirates-2000-aed.jpg	b5eead27a3c8a11f94b3	06faa1ea83ad801437c77f77b71aca452530d94c	260109
 bsv-yandex-apple-united-arab-emirates-250-aed.jpg	e1f936d952956cc5d762	f35430d85e15ac48220adc1f836b916d6335a39d	258602
 bsv-yandex-apple-united-arab-emirates-300-aed.jpg	9f970bf9e71ea9c8e83a	854674531c7c3afe2644ddb424af9c5b4798e664	258746
 bsv-yandex-apple-united-arab-emirates-400-aed.jpg	8a2ee50d8e0e86f76576	fc7798027cfa368249b2e8533dcddec494ade527	257938
@@ -4653,10 +4653,12 @@ bsv-yandex-apple-united-states-135-usd.jpg	c3c5ff8fc656c4db93cf	68fbe20efc1e6d9e
 bsv-yandex-apple-united-states-14-usd.jpg	ddbeb6912f030b1a1a0d	302c6f2626305dedc7ba5b1180ceb939f118a761	254712
 bsv-yandex-apple-united-states-140-usd.jpg	5ebb5ef03a64093e72a1	6619092b1d3b83becbed6149643dd278d46068b2	257276
 bsv-yandex-apple-united-states-15-usd.jpg	77784c0ef5a9668304a6	da9863756544815d5e8407a4d37a37cb39524745	255204
+bsv-yandex-apple-united-states-150-usd.jpg	1d07a371e2cae9dc10f0	96603ce7e87e6a790e177a8a216f0940dd368c13	257872
 bsv-yandex-apple-united-states-16-usd.jpg	dd1482873d2fcc1d9ff7	ffe3eafa3fd77a541edf1d0c10a77a646c5bee94	255554
 bsv-yandex-apple-united-states-160-usd.jpg	b3dde6272c26bb6b44cb	2eec1debce47310a2d93b2ece3317d8f1907ca3e	258381
 bsv-yandex-apple-united-states-17-usd.jpg	f0a8e9e2aabda7419ac8	f5941fd0c43542e4356236857bbd20974646601f	254433
 bsv-yandex-apple-united-states-170-usd.jpg	9caa7d297c6d1acad869	9a57843bba7e07a820ca7a12e4ff06ca83c89212	257041
+bsv-yandex-apple-united-states-18-usd.jpg	2762362af79020d39bc1	da3c4596f0e718f16812857d956fff6ce87828b1	255628
 bsv-yandex-apple-united-states-19-usd.jpg	566b5f8c53f9ffc42791	8324c4edf8e3b70d0ca4d8a91b4c07e5394aec7c	255510
 bsv-yandex-apple-united-states-2-usd.jpg	1ce1c1611b1c267c408f	63eb18b65b8d954685c7918152ce789ac38b4134	254106
 bsv-yandex-apple-united-states-20-usd.jpg	3d443a3f8f45deb85e2d	ec8588f372ad610d6ff574628f091e45972374d6	257010
