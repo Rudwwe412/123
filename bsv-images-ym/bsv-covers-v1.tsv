@@ -177,6 +177,7 @@ bsv-apple-japan-2000-jpy.jpg	c1a706043f0ca8cd2757	682fd677872d95f6e1504591f69510
 bsv-apple-japan-3000-jpy.jpg	f74a63f1a0f8b4db6cea	299f61c5868211eaf100d1670abe26ae84b61f73	260374
 bsv-apple-japan-30000-jpy.jpg	9498453f68653ce58691	55f2a57ffac902550c27aa2fc5116a6d6a9016c8	261226
 bsv-apple-japan-4000-jpy.jpg	6cae92afd41c071cdab7	c2d71de507f45abdbbd95e58d6ef595583fe75f8	259763
+bsv-apple-japan-500-jpy.jpg	e2aa1f75024a802aaf78	f5ab62e9db53c0517b959f9c20cabfde8331e002	258501
 bsv-apple-japan-5000-jpy.jpg	f231cf759a2c524d5e45	e37a00a9ba22ed3f258ff932b0bfbc2bf1d6d8bf	260505
 bsv-apple-japan-50000-jpy.jpg	a00fe54dc952b2911eac	e45e0d527dacdbb6b08939ddbc403a190eda8020	261130
 bsv-apple-japan-70000-jpy.jpg	90973a05d0c070f22e71	29d6ebf8cef242c55e95c42e313da7a7017eed4b	260601
@@ -2656,6 +2657,7 @@ bsv-steam-germany-4-eur.jpg	4b3822104013aaeff846	194c0352266612b499cc98dd8afedff
 bsv-steam-germany-5-eur.jpg	8a978efb2e08fccf6936	033d83bfe158ce3f7df0fb6e6be639a61d1f97c4	253202
 bsv-steam-global-1-usd.jpg	560685eb5587e85470de	5d2900b6ba9a8c6db8fa57ea3006119da0682cad	254979
 bsv-steam-global-2-usd.jpg	d82cabfcb21247d0f9b9	83ad65dc42bb287fa974bb186b73445f4148b9f1	256551
+bsv-steam-global-20-usd.jpg	f3d1d2870cfa8ab2d20f	782a3e529433239352e3b0c7a1d9f0ea36fe2fcc	259532
 bsv-steam-global-3-usd.jpg	600c516ad2ebc8418231	37d48ba37f2430f2dcf27402622923f596ac2e31	256835
 bsv-steam-global-30-usd.jpg	4d5b898ecb43529d5e93	d9d1012a46270587881cb33295f46f85fba316f5	259446
 bsv-steam-global-4-usd.jpg	f602e7f57e20e1b3f5ce	9fbc35609963f3e2da423e46abf9fcde8317b7eb	256029
@@ -4472,6 +4474,7 @@ bsv-yandex-apple-japan-2000-jpy.jpg	482ef1354fba73c26c1c	af119db85a7ba0f0e607275
 bsv-yandex-apple-japan-3000-jpy.jpg	bcf7cafbe2ba62c72d10	7f911361e2f85cb9f961ad14ce57e122c1b412b5	261152
 bsv-yandex-apple-japan-30000-jpy.jpg	db43627ca7cc14c5a2c1	59d91285da5c5a77d2aa6e1bdabac820139fd14a	262004
 bsv-yandex-apple-japan-4000-jpy.jpg	4fb653851888e6354cdd	96455cbaebffca9ca1ca7ee9b6b60ff6bf2e7156	260568
+bsv-yandex-apple-japan-500-jpy.jpg	49f80797ec4729116779	b983d608702f4840958dd5435cf361ad4d2ef066	259396
 bsv-yandex-apple-japan-5000-jpy.jpg	592ae8ea5e8da237dd97	e5d1510db4ae2041139f7281557206bbe61c03f6	261172
 bsv-yandex-apple-japan-50000-jpy.jpg	9d3743f932bfc1412827	6fce2f413564f1d237c20bb9a6027be15c081872	261927
 bsv-yandex-apple-japan-70000-jpy.jpg	2ae7f30dd90a2ae940c9	34011785f353edc9360c4cb6eb1c25a718c1755e	261376
@@ -6945,6 +6948,7 @@ bsv-yandex-steam-germany-4-eur.jpg	d704354f60a86f7c8f9a	07699924bdec31a1b31c33b6
 bsv-yandex-steam-germany-5-eur.jpg	ad4ae7b3994b7abc0d2b	e61ef53cf42c0086ec753a385fdcbd2b5e95bda8	254390
 bsv-yandex-steam-global-1-usd.jpg	2612bc7b657d37f1a19e	5f304ce82e6dc3941b7147e3f7eecd8b83712593	256175
 bsv-yandex-steam-global-2-usd.jpg	f8798726885e3773f70c	4ef6b38dda08ee93dd81c5a8f519547017141f94	257649
+bsv-yandex-steam-global-20-usd.jpg	d364a87f19d4d1d86534	52b58d430ab84d88a1ade3fcba6f4de329c4a681	260555
 bsv-yandex-steam-global-3-usd.jpg	50beb0b25ffee08f88a3	077a8a6c6cb6b9ed9b2a0a7bd8f27ebe1f5f2cfc	257898
 bsv-yandex-steam-global-30-usd.jpg	134cabe6afb2fa5d2731	5ca7c4d1b01e23861a5d7f569857e97559eafa3b	260403
 bsv-yandex-steam-global-4-usd.jpg	98199fc45eccacf6a15a	65e707dacab19c3f6eb6fb800468cce926a44aa6	257180
