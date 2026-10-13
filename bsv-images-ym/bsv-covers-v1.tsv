@@ -82,7 +82,6 @@ bsv-apple-china-50-cny.jpg	701be2155e19ff9f2d59	e40c14c0a2200d81816f947d1248197f
 bsv-apple-china-500-cny.jpg	4ddb5310c4416f48d9db	2dcd1042a7cf3832566581c5e81347b0abfee32b	259857
 bsv-apple-egypt-1000-egp.jpg	774b9114e744c01b7bde	370ab57ab98b6472d1529d5aaebe53d643180de6	257981
 bsv-apple-egypt-1160-egp.jpg	2ebde768e15fb1a4c63f	e8283e66d5ff39678f4380292eefb382227868fc	257581
-bsv-apple-egypt-570-egp.jpg	3183e9c7045cff94b76a	990aeb453496d5dc7854bf3dc71c7360d7559bd6	257009
 bsv-apple-finland-10-eur.jpg	7f888f31c235462381f8	9bd441e72c3a247ee6b70900ff979baa3e88db65	256082
 bsv-apple-finland-100-eur.jpg	1e338ca159898191d5e2	ddd31b07d28d08d54dfca39e0fd2cfe5cdd17bfe	259077
 bsv-apple-finland-15-eur.jpg	d7796b6a42ad06375a49	fc20fd61c0b43912285229208b73ea3ca19abe18	256263
@@ -3282,6 +3281,7 @@ bsv-steam-poland-35-pln.jpg	514e1b515d8899618a5d	1c6ce131301c2d4d059e3e4012d0e3d
 bsv-steam-poland-370-pln.jpg	8950be3a40f7426a711a	a5b8a0f47d6bba3c112629704e1a9aaef5ab2e34	254879
 bsv-steam-poland-380-pln.jpg	d61f9c33ba5a2b26f412	639d03727d5508c44a92c9f1285ada9e129ffd36	256497
 bsv-steam-poland-390-pln.jpg	d66fcc3406cd770574a4	d69216df9caf3207327b70efa0e02269208c792e	256307
+bsv-steam-poland-4-pln.jpg	bab1d3f97b8d3b21db2d	64f31b32262799c4a454430632543c433f5447b1	249675
 bsv-steam-poland-40-pln.jpg	a0682e581cb88d09e0e8	a167425cb4e72702a64c3862de690466d6f5b2a9	252449
 bsv-steam-poland-400-pln.jpg	56b75a0e30687d461325	7249bbc35760c0cc8787ec8bd58849379bf8ff2d	255131
 bsv-steam-poland-420-pln.jpg	f783114a82151809d836	8a7252098f14b0831042c759f754b8bbbd6c65be	255247
@@ -4371,7 +4371,6 @@ bsv-yandex-apple-china-50-cny.jpg	ddcf8eb0df5de995d43a	b00a36e420db53a083436dcd0
 bsv-yandex-apple-china-500-cny.jpg	c5927986007d84f0e895	87450c0a7338ec7fd873738a93c08ba6b8412af1	260558
 bsv-yandex-apple-egypt-1000-egp.jpg	172a13c2287a15583b62	61e1d6133d2686cf7669a9c44103a7b4b808b98a	258786
 bsv-yandex-apple-egypt-1160-egp.jpg	753102763123d1b5fb86	b0676f350aa0a6d4d9d04b4c3edfe8d9fe4b8c16	258337
-bsv-yandex-apple-egypt-570-egp.jpg	58f60b3c7aaa419bb863	bb12b46954fa80fda710fb8e6811c83cb5dfba7f	257753
 bsv-yandex-apple-finland-10-eur.jpg	b8a07c64207483a9101d	ab6c6869720fabd0ecfb113e40c2529c3b0e3fd4	257015
 bsv-yandex-apple-finland-100-eur.jpg	fdab37a67f89b3d35acc	119a9b1c2f2c622d4a5cba2873b5c591ce1e91fc	259801
 bsv-yandex-apple-finland-15-eur.jpg	eb7461934128788ec63a	68d61101944fa394083d56e1dc08647b441570bd	257191
@@ -7565,6 +7564,7 @@ bsv-yandex-steam-poland-35-pln.jpg	5ddc7c162ca0bf67c911	a1e39b784fa1066efb234937
 bsv-yandex-steam-poland-370-pln.jpg	d13d5aa30ffe4882cec4	d24b6e2063fac71992d62001552635dcfa63f75c	255974
 bsv-yandex-steam-poland-380-pln.jpg	5ab7fc1abff8ff8df5de	f9cec250022f499f96896b9f7e3d54ee25365e9a	257455
 bsv-yandex-steam-poland-390-pln.jpg	fae8bc0a70e967fdea4b	10bb13db53327c40e29e076f99ca49dd591f11ce	257353
+bsv-yandex-steam-poland-4-pln.jpg	2cae2381f35406f047c5	594e818c3af7ec2175031fcfd8fa0119ef9fc0f8	250876
 bsv-yandex-steam-poland-40-pln.jpg	c13b816798aaf741bb94	b61d2b6a0f61b654f1d3564adcdc2360ff788805	253630
 bsv-yandex-steam-poland-400-pln.jpg	3d19dca7aaee897fe166	a918e14a6cea7fecc5bc8ffcfc1cc8d67973cda5	256175
 bsv-yandex-steam-poland-420-pln.jpg	8ee362cbe7d7286d94a2	685cfcacbcb2c5dad9f6954962faf13eceee2346	256243
