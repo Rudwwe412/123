@@ -226,7 +226,6 @@ bsv-apple-nigeria-2200-ngn.jpg	68bca82ee791b398c559	0df27d09f3e2f5ccb7d1c959f43f
 bsv-apple-nigeria-22000-ngn.jpg	c120dbf0f09c3a4ce577	d7bee5a5cbb3068cffa71cda4529632a96c99931	261596
 bsv-apple-nigeria-2500-ngn.jpg	341ec5ee403640f6f01b	76bb7adfe470d8c894971fcfc763f119baeb6a21	260877
 bsv-apple-nigeria-3600-ngn.jpg	a44775f27a9f952c0105	a9ce5d4a34d4905ce2e3d6025b0643133fd4a029	261198
-bsv-apple-nigeria-40000-ngn.jpg	fd0176366635489a3d9a	00dcd88250e17aef20d45c7d8cdf93f273c10f92	260415
 bsv-apple-nigeria-45000-ngn.jpg	808c7cf9969a8cab1c35	47e45ca2a41ba2062b801ae7cc92a3e380ed1324	260982
 bsv-apple-norway-100-nok.jpg	043a6ba4e1a3a4f71684	c4509043402ca2b8370129d59faf6fe0934693a1	260727
 bsv-apple-norway-1000-nok.jpg	6fc823e2ee96452d8443	03454694eb9a160a8a3ec2186e39e24e54ffee83	262514
@@ -266,7 +265,6 @@ bsv-apple-russia-7000-rub.jpg	ebefde475c72b3a4dc27	c36c091b740ce4ba12d6a1db40c1b
 bsv-apple-russia-800-rub.jpg	1c83773f937fa6a99e68	420c4ef93d8fc34e6508d6f03a5ebc226fcc3523	261920
 bsv-apple-russia-8000-rub.jpg	44bdf510b1d01ecbf0b3	3c5055f0d3cf1232479965c5cedbde9efd5dff93	263387
 bsv-apple-russia-900-rub.jpg	110bccbccb971f1408db	6ed1ca779e3385e7bd247f47ab176b0081061202	261851
-bsv-apple-russia-9000-rub.jpg	2b9f374768a6ad4a755a	4226f00543b31d80957bd2d9168d68c94057e6f8	263333
 bsv-apple-saudi-arabia-100-sar.jpg	51b0447125715ecb9b73	631aba5c3079e3ebdd7d56f904c64d1f762a2ed7	263284
 bsv-apple-saudi-arabia-1000-sar.jpg	7b8c6e487ca2ac9714cd	c431be536bafa6321a5639f27b11ec2480af23a7	265092
 bsv-apple-saudi-arabia-150-sar.jpg	8694bc741243a81c6d00	337664ee7f8e1c5e7a2e74b8871d6e166b5a914a	263280
@@ -366,6 +364,8 @@ bsv-apple-united-arab-emirates-500-aed.jpg	d1416a5e33a9663a5cbd	7ce15cd56f7ad5e3
 bsv-apple-united-arab-emirates-75-aed.jpg	16c126859b71728ff26f	9fde56d589544e0e8394158423d0daf0f050387e	254123
 bsv-apple-united-kingdom-10-gbp.jpg	7f93004c78543937f5d7	c5963cf4f50291f1e54d61f93d23dfd5efd245d4	261581
 bsv-apple-united-kingdom-15-gbp.jpg	ffbc0fbc1188d2d02037	f9b9ee62e25d3d63428b0369ac629f0523f14da2	261778
+bsv-apple-united-kingdom-20-gbp.jpg	4d5da21c8e7490490656	3cee597475c089e1591e9d9949fe2c56a980e331	263374
+bsv-apple-united-kingdom-25-gbp.jpg	760b6f99cdbce0580373	39ab73249580f3f0ef6181900aac743b78cb506e	263268
 bsv-apple-united-kingdom-5-gbp.jpg	6ec0940a279275c5a53c	7ec99b302a96fa2f5e02c78472d48dd8dc81b3ee	260551
 bsv-apple-united-states-10-usd.jpg	b9a95528fc6bb8a0d191	a7a65dc8389aba4d84aa5bf5e2767ae2aa4088e4	254225
 bsv-apple-united-states-100-usd.jpg	2157b32ca471f8acf91a	a75d2c60028d65ad6bfb6cf6686886003d7b96a1	256982
@@ -2755,6 +2755,7 @@ bsv-steam-global-3-usd.jpg	600c516ad2ebc8418231	37d48ba37f2430f2dcf27402622923f5
 bsv-steam-global-30-usd.jpg	4d5b898ecb43529d5e93	d9d1012a46270587881cb33295f46f85fba316f5	259446
 bsv-steam-global-4-usd.jpg	f602e7f57e20e1b3f5ce	9fbc35609963f3e2da423e46abf9fcde8317b7eb	256029
 bsv-steam-global-5-usd.jpg	7f6088238a94e26555b4	ea918f0c1355f695ccb03d020edd5e9c8e35393e	256648
+bsv-steam-global-50-usd.jpg	4e447e2bf822999ed603	464b64daa6dd2eeea897818a098461a0b8b2a31a	259319
 bsv-steam-global-6-usd.jpg	30a56d90ed63fb96656f	610cdc69855dd9e7fad5499ed709313c69c1ae90	256986
 bsv-steam-global-7-usd.jpg	67fd23e3ae69f761b5f4	6c6f889988ccc0fdb81683afbd0c7a59d1a16eb7	255764
 bsv-steam-global-8-usd.jpg	506e8f069a5278ab4821	4ef311f90d3a3a36193d667932a10b386b91c4bf	257177
@@ -4618,7 +4619,6 @@ bsv-yandex-apple-nigeria-2200-ngn.jpg	c87ba7bcb6e5e1f2ca09	5bbab4198ff698fad6f81
 bsv-yandex-apple-nigeria-22000-ngn.jpg	d3a7953014a1d0b5edf5	f7732aaee586f475a717f53cd291d7b63f87d91c	262283
 bsv-yandex-apple-nigeria-2500-ngn.jpg	0a0ca1e3555eb06b6688	b5bf3e39871de2345ae308e7eeba1d0a04dfce2d	261516
 bsv-yandex-apple-nigeria-3600-ngn.jpg	09ec781e09281317b4e4	fe3c669a6170d43108e6a7ff8a76d8bd1e1ffa11	261911
-bsv-yandex-apple-nigeria-40000-ngn.jpg	643ff87d31a2b5580730	66263d68d69648251a90861f1198194c2af9be2e	261112
 bsv-yandex-apple-nigeria-45000-ngn.jpg	39785fbabf7c5a02df81	ef2e394e61519f99cd3c627bb631f3af22fe58f4	261674
 bsv-yandex-apple-norway-100-nok.jpg	2c037b4a18a7030fd289	4441c6440142c99eb2257d2d407b426d1faa6075	261533
 bsv-yandex-apple-norway-1000-nok.jpg	dacb9347af10b96b008b	fa2fe5656c4540ff0ec08ca2029dec215bf6abd5	263253
@@ -4658,7 +4658,6 @@ bsv-yandex-apple-russia-7000-rub.jpg	6ec5c4aac997ca04f881	fed043b641e4fee7ffe07c
 bsv-yandex-apple-russia-800-rub.jpg	12016094606116e5eb84	f49a4e20dfa2b09c1794138b9803ff3407430379	262666
 bsv-yandex-apple-russia-8000-rub.jpg	d87d570eabed83926ccd	22057ce87523e1a4a2acc5704a4782795c0c37cc	264037
 bsv-yandex-apple-russia-900-rub.jpg	ddf0f96272436f00cf5a	8224ceacbc1765dd22a7094ba8dbd5167394c6bb	262555
-bsv-yandex-apple-russia-9000-rub.jpg	caef51d0e15acf689dcc	9f06b300e130171683b0981986706758f5fbdeb7	264021
 bsv-yandex-apple-saudi-arabia-100-sar.jpg	b5983a8d36e251474e28	4ffc0a252e4775d0ad1f6dbf39827fbd6c1e42ec	264048
 bsv-yandex-apple-saudi-arabia-1000-sar.jpg	3229432762c71882cb9d	efbd1e1ad9e75f17563a78035c50f0a07270484f	265797
 bsv-yandex-apple-saudi-arabia-150-sar.jpg	d20c819bc2edf27f9d36	82eec6939b5099132099986f8b2d134c1319ccf1	264090
@@ -4758,6 +4757,8 @@ bsv-yandex-apple-united-arab-emirates-500-aed.jpg	56362bbd3591e45f1063	77e8895ee
 bsv-yandex-apple-united-arab-emirates-75-aed.jpg	d4778bd83eff7b5a964e	a8482827b85023c7aae0329424649c54f5c540fb	255160
 bsv-yandex-apple-united-kingdom-10-gbp.jpg	06c69513f0dfce594d53	3a82057018854929cacc9738ebadc257cef81388	262515
 bsv-yandex-apple-united-kingdom-15-gbp.jpg	b1ae640a96659c07fd66	ffd695fbc0dec5438ad334e5e1907818e8d705f1	262616
+bsv-yandex-apple-united-kingdom-20-gbp.jpg	09ddc11161becea8eb31	1d1a6bf4dff13da34ddee47a1bd4b5da22df78b3	264156
+bsv-yandex-apple-united-kingdom-25-gbp.jpg	794135c9ebb87bc142f5	02237f4e5326dd2a67cbf925c73c46b3e7105b2d	264213
 bsv-yandex-apple-united-kingdom-5-gbp.jpg	3082bd4b9d754c893c3d	e093cc45d29319dbe94930e0cb390b2fadd1c0b5	261440
 bsv-yandex-apple-united-states-10-usd.jpg	137af10735997319bad2	d97328ac6e23b278c910c35ca73474f5ab5c3619	255119
 bsv-yandex-apple-united-states-100-usd.jpg	6947a3d7f93b36f49b66	dd0810a9330d342eb2b4915bd4e3a9a3a6557f63	257880
@@ -7141,6 +7142,7 @@ bsv-yandex-steam-global-3-usd.jpg	50beb0b25ffee08f88a3	077a8a6c6cb6b9ed9b2a0a7bd
 bsv-yandex-steam-global-30-usd.jpg	134cabe6afb2fa5d2731	5ca7c4d1b01e23861a5d7f569857e97559eafa3b	260403
 bsv-yandex-steam-global-4-usd.jpg	98199fc45eccacf6a15a	65e707dacab19c3f6eb6fb800468cce926a44aa6	257180
 bsv-yandex-steam-global-5-usd.jpg	0e19bf457324bb62fb62	31e228a534135df8f4299f922c24ba23fd555c2f	257792
+bsv-yandex-steam-global-50-usd.jpg	ab33c4fda48b8a17000e	037b30d56335a44f654c93339abfb92db2dfeb47	260302
 bsv-yandex-steam-global-6-usd.jpg	c1c31069985653e9b063	e33cff9b8a067d876c21eb5f28a03dca63aa8d47	258142
 bsv-yandex-steam-global-7-usd.jpg	02734aeb8782d200157f	cdfa0df2ce2d27b9f1760363e00c1f24f238f28b	256885
 bsv-yandex-steam-global-8-usd.jpg	e98ce971d3ddd8615f15	66f4a7e18519c05630f28a003326c6619ca70b41	258340
