@@ -703,11 +703,13 @@ bsv-nintendo-canada-30-cad.jpg	63cbf1b4232c02a8efb6	12e20a7feaab94ce5cdc3abb54f9
 bsv-nintendo-canada-35-cad.jpg	cae29c534637d6586a32	fd21f381789ebe6c4476c0e7100fc168a80e2722	266425
 bsv-nintendo-canada-50-cad.jpg	5438217c4ba5e82aeb06	73e64299891adada22c59a17036bb6dbb4ace56f	266186
 bsv-nintendo-canada-99-cad.jpg	f12a656c5cf079bf4ca3	b97317c81750ff251a33e6a4289951bbd57c1dc6	267202
+bsv-nintendo-cyprus-15-eur.jpg	23d5055acdbb48aae2c6	2f8ac4b0aa5a9961a346ed9c878b18f55a7984eb	257849
 bsv-nintendo-denmark-1000-dkk.jpg	ea2591afee20cbb08495	432a0b032d65628544f0621ec34cebf26310806f	265022
 bsv-nintendo-denmark-150-dkk.jpg	139f87e7efe829e60618	13f088f0a850610ff90bdb97a7b525112bb02fec	263447
 bsv-nintendo-denmark-250-dkk.jpg	31fd061e349a14d15a39	a51325363de2b33940d877b65511e3c5745d17bf	264918
 bsv-nintendo-denmark-500-dkk.jpg	8a45c0263f001566cbc2	cf7ca7698ac89d7f3f0a86dcc153c5ec4f809d11	265097
 bsv-nintendo-denmark-750-dkk.jpg	c27ce46ca28d687569eb	e4dc86c63551157792c58761ce3818225e8a6c5b	264188
+bsv-nintendo-estonia-15-eur.jpg	c88b73cce9d6f653abc2	c43ea4eeb7d29dd336ddd62180852085a21b9178	264105
 bsv-nintendo-euro-area-100-eur.jpg	b300a71399aa1d55d97e	d83b0a8851e84594b2cb9ae1627923e6378611e9	267477
 bsv-nintendo-euro-area-15-eur.jpg	d771598a1ac7023b6911	fed49ee2f163b5c1b4f4225dfc6a02f3d38f50ab	264949
 bsv-nintendo-euro-area-25-eur.jpg	9575ea5c06f75023023b	3738c1943f4c491ac45e122bc62671df4a4326d9	266663
@@ -759,6 +761,9 @@ bsv-nintendo-japan-3000-jpy.jpg	528de8793bcb8049e993	800a8b7987bb5f0d203667c7776
 bsv-nintendo-japan-500-jpy.jpg	09e42930955cb1ca62ab	8152239119db99c7096cab1eefa144876da284e7	265149
 bsv-nintendo-japan-5000-jpy.jpg	df71ec35f83205c762bc	50aac171ac661bf3f2a1430534c3b9abe26d65de	266969
 bsv-nintendo-japan-9000-jpy.jpg	64cb95f87a00369ee594	68032f6166af784c612f09959d72e273689c17cf	267262
+bsv-nintendo-latvia-15-eur.jpg	26e4ac774d089daa0d29	d48ada3ee7517ccfb937f85d0b6ee25991ae3a3d	262115
+bsv-nintendo-luxembourg-15-eur.jpg	816decdea5a3589bd107	fabb76d0e44371188d61f4173b068509c589db36	266307
+bsv-nintendo-malta-15-eur.jpg	ce367cc9c5f227649338	b8a53f004e96aa4f4c6a94eb50cd4400c6fc5440	262377
 bsv-nintendo-mexico-100-mxn.jpg	557b045c1288271952bd	390d6bbd674533148068279650ed0fd0ad709427	270300
 bsv-nintendo-mexico-1000-mxn.jpg	0e2898a54c1b4fe24b7a	029920a3608c484622a169f770d8c4fc847107a1	272121
 bsv-nintendo-mexico-200-mxn.jpg	f0e10548ad622d1fa8f5	2e83caafe88f0166e0e4ddc72129a1b42c06255b	271842
@@ -791,6 +796,7 @@ bsv-nintendo-slovakia-15-eur.jpg	3db302d82ee289816595	92b1aeda5a71ab2541dab42020
 bsv-nintendo-slovakia-25-eur.jpg	8deffdb6ea1903b29935	a258c5534de47658e3c4b4f2a17984c02fbd4b49	268109
 bsv-nintendo-slovakia-50-eur.jpg	6df65fd3a69c9c87ed95	3fe50b1d9d0938fec7987e21051dafce3fe8e56d	267928
 bsv-nintendo-slovakia-75-eur.jpg	4fc520e02bb16554caf0	c1a667d90a1191f2d3c639c35b35b19acde977a6	267111
+bsv-nintendo-slovenia-15-eur.jpg	910669dc0cbb7c60c95b	28a6f9706eea0185d1e5e71066641bd68ccc9b56	265017
 bsv-nintendo-spain-100-eur.jpg	40395ffbaf4b4be62a42	9092788ac70962365de7a162208a98b4dbf700fe	266839
 bsv-nintendo-spain-15-eur.jpg	6fa8fc0d8038dc4d2820	96aa77f6ee53ecfe1ba5978d282151663f75f61e	264363
 bsv-nintendo-spain-25-eur.jpg	f1f82d986f52860faf1c	aae7f20aae7c0badf4d13de88dbcbe9c83b47ee7	266094
@@ -5106,11 +5112,13 @@ bsv-yandex-nintendo-canada-30-cad.jpg	a99657aab805cddd348e	d6bfd58d1e61f92ffa2f9
 bsv-yandex-nintendo-canada-35-cad.jpg	1a4ac250d21c6e75132c	d0744b6339871aa4c286b0d1084bc4a011e53216	266438
 bsv-yandex-nintendo-canada-50-cad.jpg	5a21b7d77160e285b6cc	4f81819abf0dce6dce60c0109974491357a2efdc	266254
 bsv-yandex-nintendo-canada-99-cad.jpg	501f5519e3a7cddc460e	e5b04f437b03e314cbe2d7fed14e8a06a4d580c9	267203
+bsv-yandex-nintendo-cyprus-15-eur.jpg	200ed9ca17d8167cdd7d	36eb0d93fa3ecf53e67a124b838219f1eee6aa5f	257945
 bsv-yandex-nintendo-denmark-1000-dkk.jpg	7593eda0dae3b2b28c14	b3771fe739b4e73ef5d4ee59d756e557489d91aa	264911
 bsv-yandex-nintendo-denmark-150-dkk.jpg	c1758c99a7c35cfc01d6	2604fccf59c37b57a35a34487c66881b3f23f800	263403
 bsv-yandex-nintendo-denmark-250-dkk.jpg	9599ac277edfdd2ff1be	2f73c47f0fe7fca6265aad88782cbb5b815ebd5d	264971
 bsv-yandex-nintendo-denmark-500-dkk.jpg	e4f0dc580b2f5782cb1b	850aa41dd7d767dc1cd225a9e50820748a835ded	265007
 bsv-yandex-nintendo-denmark-750-dkk.jpg	0242fdb8f738cec9ef28	4911cb61e4cc71bc94f41035850842f7d3524a41	264243
+bsv-yandex-nintendo-estonia-15-eur.jpg	69d39eb34f984bc9a467	61697626bf5e6fd9226001b588729ab0dd4d9941	264095
 bsv-yandex-nintendo-euro-area-100-eur.jpg	09041330e16badf76b86	18f13f28474bcd6788e59c9872b22d6d7c8fb624	267430
 bsv-yandex-nintendo-euro-area-15-eur.jpg	37be4b0df6c489f625c0	9f93e7ff263d752a8a96bd869951a2d69e2c3071	264924
 bsv-yandex-nintendo-euro-area-25-eur.jpg	0d421f63fe53dd201356	410815417103d90dcd0470cda59c9cf810809962	266645
@@ -5162,6 +5170,9 @@ bsv-yandex-nintendo-japan-3000-jpy.jpg	05d8883fc899996a5498	d95008df58a1370ac7cd
 bsv-yandex-nintendo-japan-500-jpy.jpg	e33718261c1fe2cd3145	bab43a0d83053defe36c62754856066587b162e8	265010
 bsv-yandex-nintendo-japan-5000-jpy.jpg	e7a2f5bb263f88074722	07c621a3cb9a3d7a2d4173b5e363e41820e06c4f	266802
 bsv-yandex-nintendo-japan-9000-jpy.jpg	22ccf1c42839abb01249	4208ce62b51862f9f5867f7185cec39ff80c4393	267125
+bsv-yandex-nintendo-latvia-15-eur.jpg	21886134e0d168301668	115b9ce8b8ed337610fe8cf21aa6ca646472abff	262055
+bsv-yandex-nintendo-luxembourg-15-eur.jpg	e3eb0e1daed3ce922233	bb01cab4f4085b399f8881264c189555fa3eb57f	266342
+bsv-yandex-nintendo-malta-15-eur.jpg	38251583841dcdc8d484	7855772101b1bf170bdeb7cdd06a1a90e6fef263	262382
 bsv-yandex-nintendo-mexico-100-mxn.jpg	44381332154f05e8e889	9fcb970e81be2c95c397fb5caa4e0be3d38d70e7	270229
 bsv-yandex-nintendo-mexico-1000-mxn.jpg	f44f89b8d5c3f0542b86	ca29d32c9f60b8c0f351713a482867c8d25ce1eb	271963
 bsv-yandex-nintendo-mexico-200-mxn.jpg	0db7fa3dcf7760df58cd	e9f7f954438b58933e3492ef0fe470933bccdaae	271677
@@ -5194,6 +5205,7 @@ bsv-yandex-nintendo-slovakia-15-eur.jpg	ee609aa2e1286efefdf7	a4684886b82fe07f21d
 bsv-yandex-nintendo-slovakia-25-eur.jpg	99d2efe4b98e5dbac827	1a5adfab18bff36934a60ef228367ee021541227	268046
 bsv-yandex-nintendo-slovakia-50-eur.jpg	e35304b7ebb0a1a163fb	18ddedb29330f065758e89b470248864ca251571	267912
 bsv-yandex-nintendo-slovakia-75-eur.jpg	b9f43f599df5abbed76c	fba578cb4482046e4f97f7518caa7db1918c3db2	267128
+bsv-yandex-nintendo-slovenia-15-eur.jpg	3c4bee4c98f1803e30a9	e5aba2b480b5fdbd974322fc1cee269828919804	265000
 bsv-yandex-nintendo-spain-100-eur.jpg	2de6c611bf94727ac10b	3b8a12f9ae60e404c9976d6f8d064c96ab2395da	266793
 bsv-yandex-nintendo-spain-15-eur.jpg	0185bd006a924dcfef1e	51caf852a3b93e3ae5b7fe1392569e5bbb06c078	264297
 bsv-yandex-nintendo-spain-25-eur.jpg	0622ec128c73d3e37d54	483f48585db4605a53a6e82f78bd6d261e404473	266095
